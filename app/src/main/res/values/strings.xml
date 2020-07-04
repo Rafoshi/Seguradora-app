@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Seguradora</string>
+    <string name="txt_name">Digite seu nome</string>
+    <string name="txt_age">Digite seu RG</string>
+    <string name="txt_plan">Escolha seu plano de seguro:</string>
+    <string name="btn_cad">Cadastrar</string>
+    <string-array name="plan_array">
+        <item>Iron</item>
+        <item>Gold</item>
+        <item>Platinum</item>
+        <item>Diamond</item>
+    </string-array>
+</resources>
